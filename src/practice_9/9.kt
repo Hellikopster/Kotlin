@@ -1,7 +1,5 @@
 package practice_9
 
-import kotlin.random.Random
-
 fun main(){
     print("Длина пароля >> ")
     val n = readln().toInt()

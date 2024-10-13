@@ -1,7 +1,5 @@
 package practice_8
 
-import kotlin.random.Random
-
 private fun func(k:Int, n:Int):Boolean{
     return k*k == n
 }

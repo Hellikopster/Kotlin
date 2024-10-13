@@ -1,7 +1,5 @@
 package practice_8
 
-import kotlin.random.Random
-
 private fun sum(n:Int):Int{
     return Array(n) {it + 1}.sum()
 }

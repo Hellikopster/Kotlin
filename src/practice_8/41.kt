@@ -1,7 +1,5 @@
 package practice_8
 
-import kotlin.random.Random
-
 private fun countVowels(word:String):Int{
     var count = 0
     val vowels = arrayOf('ё', 'у', 'е', 'ы', 'а', 'о', 'э', 'я', 'и', 'ю', 'a', 'e', 'i', 'o', 'u', 'y')

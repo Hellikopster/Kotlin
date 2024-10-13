@@ -1,7 +1,5 @@
 package practice_8
 
-import kotlin.random.Random
-
 private fun removeSpaces(s:String):String{
     return s.filter { c:Char -> c != ' ' }
 }

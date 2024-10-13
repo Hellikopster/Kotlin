@@ -1,7 +1,6 @@
 package practice_8
 
 import kotlin.random.Random
-import kotlin.random.nextInt
 
 private fun func(prob:Int, prize:Int, pay:Int):Boolean{
     return prob * prize > pay
